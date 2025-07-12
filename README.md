@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently learning and working on creating GenAI agent developement pipelines. The ultimate goal is to have a self-healing and self-learningn factory, that will mine software based on priorities given from the outside (most likely me). My tool sstack is go, Rust, occasionally Python plus Typescript. 
 <!--
 **osauer/osauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
